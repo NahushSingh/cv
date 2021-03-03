@@ -60,9 +60,9 @@ hr {
 
 .bottom-img {
   position: absolute;
-  height: 200px;
-  left: 300px;
-  bottom: 130px;
+  height: 28%;
+  left: 20%;
+  bottom: 20%;
 }
 .top-container {
   background: url("../images/background1.jpg") center;
